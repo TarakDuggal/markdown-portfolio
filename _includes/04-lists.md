@@ -1,4 +1,4 @@
-basketball
-music
-football
-books
+- basketball
+- music
+- football
+- books
